@@ -1,0 +1,2 @@
+chatterbot==1.0.4 pytz
+requests==2.31.0
